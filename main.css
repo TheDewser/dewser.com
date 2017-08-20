@@ -25,12 +25,6 @@ h2 {
     font-size: 1.6rem;
 }
 
-/* div {
-    padding-right: 25px;
-    height: 75%;
-    width: 100%;
-} */
-
 div { 
     /* padding-right: 30px; */
     height: 100%;
@@ -52,18 +46,6 @@ div {
     color: #000000;
 }
 
-
- /* .hero {
-    background-image: url('images/MontereyBay-001-69.jpg');
-    background-size: cover;
-    background-position: center top;
-    height: 35%;
-    background-repeat: no-repeat;
-    padding: 250px 0;
-    margin: 30px;
-    text-shadow: 0 2px #000000;
-    font-family: '
-}  */
 .container {
     display: flex;
     height: 100%;
